@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # README
 
 This README would normally document whatever steps are necessary to get the
@@ -22,3 +23,7 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+=======
+# dojo_forum
+alphacamp_dojo forum
+>>>>>>> 7f1c93825b928a9a82a88a9d6208b4141403c782
