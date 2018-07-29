@@ -5,4 +5,6 @@ Rails.application.routes.draw do
     mount Localtower::Engine, at: "localtower"
   end
 
+  root 'posts#index'
+
 end
