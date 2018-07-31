@@ -1884,3 +1884,368 @@ Processing by PostsController#index as HTML
 Completed 200 OK in 50ms (Views: 48.6ms)
 
 
+Started GET "/" for 127.0.0.1 at 2018-07-30 18:42:27 +0800
+Processing by PostsController#index as HTML
+  Rendering posts/index.html.erb within layouts/application
+  Rendered posts/index.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 91ms (Views: 89.7ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-07-30 18:43:14 +0800
+Processing by PostsController#index as HTML
+  Rendering posts/index.html.erb within layouts/application
+  Rendered posts/index.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 102ms (Views: 99.6ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-07-30 18:43:48 +0800
+Processing by PostsController#index as HTML
+  Rendering posts/index.html.erb within layouts/application
+  Rendered posts/index.html.erb within layouts/application (1.2ms)
+Completed 200 OK in 131ms (Views: 128.7ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-07-30 18:45:13 +0800
+Processing by PostsController#index as HTML
+  Rendering posts/index.html.erb within layouts/application
+  Rendered posts/index.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 89ms (Views: 87.2ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-07-30 18:45:14 +0800
+Processing by PostsController#index as HTML
+  Rendering posts/index.html.erb within layouts/application
+  Rendered posts/index.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 60ms (Views: 58.7ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-07-30 18:45:14 +0800
+Processing by PostsController#index as HTML
+  Rendering posts/index.html.erb within layouts/application
+  Rendered posts/index.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 111ms (Views: 109.3ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-07-30 18:45:23 +0800
+Processing by PostsController#index as HTML
+  Rendering posts/index.html.erb within layouts/application
+  Rendered posts/index.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 94ms (Views: 93.2ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-07-30 18:45:36 +0800
+Processing by PostsController#index as HTML
+  Rendering posts/index.html.erb within layouts/application
+  Rendered posts/index.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 80ms (Views: 79.2ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-07-30 18:45:53 +0800
+Processing by PostsController#index as HTML
+  Rendering posts/index.html.erb within layouts/application
+  Rendered posts/index.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 69ms (Views: 67.6ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-07-30 18:46:09 +0800
+Processing by PostsController#index as HTML
+  Rendering posts/index.html.erb within layouts/application
+  Rendered posts/index.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 94ms (Views: 93.2ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-07-30 18:46:16 +0800
+Processing by PostsController#index as HTML
+  Rendering posts/index.html.erb within layouts/application
+  Rendered posts/index.html.erb within layouts/application (1.2ms)
+Completed 200 OK in 135ms (Views: 134.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-07-30 18:46:22 +0800
+Processing by PostsController#index as HTML
+  Rendering posts/index.html.erb within layouts/application
+  Rendered posts/index.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 114ms (Views: 112.6ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-07-30 18:46:27 +0800
+Processing by PostsController#index as HTML
+  Rendering posts/index.html.erb within layouts/application
+  Rendered posts/index.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 100ms (Views: 98.1ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-07-30 18:46:32 +0800
+Processing by PostsController#index as HTML
+  Rendering posts/index.html.erb within layouts/application
+  Rendered posts/index.html.erb within layouts/application (0.9ms)
+Completed 200 OK in 94ms (Views: 88.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-07-30 18:47:17 +0800
+Processing by PostsController#index as HTML
+  Rendering posts/index.html.erb within layouts/application
+  Rendered posts/index.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 100ms (Views: 98.1ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-07-30 18:47:27 +0800
+Processing by PostsController#index as HTML
+  Rendering posts/index.html.erb within layouts/application
+  Rendered posts/index.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 104ms (Views: 102.9ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-07-30 18:47:36 +0800
+Processing by PostsController#index as HTML
+  Rendering posts/index.html.erb within layouts/application
+  Rendered posts/index.html.erb within layouts/application (1.2ms)
+Completed 200 OK in 149ms (Views: 146.6ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-07-30 18:49:03 +0800
+Processing by PostsController#index as HTML
+  Rendering posts/index.html.erb within layouts/application
+  Rendered posts/index.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 90ms (Views: 89.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-07-30 18:49:04 +0800
+Processing by PostsController#index as HTML
+  Rendering posts/index.html.erb within layouts/application
+  Rendered posts/index.html.erb within layouts/application (0.8ms)
+Completed 200 OK in 70ms (Views: 68.6ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-07-30 18:49:05 +0800
+Processing by PostsController#index as HTML
+  Rendering posts/index.html.erb within layouts/application
+  Rendered posts/index.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 84ms (Views: 83.2ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-07-30 18:49:05 +0800
+Processing by PostsController#index as HTML
+  Rendering posts/index.html.erb within layouts/application
+  Rendered posts/index.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 73ms (Views: 72.4ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-07-30 18:51:53 +0800
+Processing by PostsController#index as HTML
+  Rendering posts/index.html.erb within layouts/application
+  Rendered posts/index.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 96ms (Views: 94.1ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-07-30 18:51:54 +0800
+Processing by PostsController#index as HTML
+  Rendering posts/index.html.erb within layouts/application
+  Rendered posts/index.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 106ms (Views: 104.9ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-07-30 18:52:11 +0800
+Processing by PostsController#index as HTML
+  Rendering posts/index.html.erb within layouts/application
+  Rendered posts/index.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 74ms (Views: 72.6ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-07-30 18:52:12 +0800
+Processing by PostsController#index as HTML
+  Rendering posts/index.html.erb within layouts/application
+  Rendered posts/index.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 67ms (Views: 65.7ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-07-30 18:52:19 +0800
+Processing by PostsController#index as HTML
+  Rendering posts/index.html.erb within layouts/application
+  Rendered posts/index.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 55ms (Views: 53.4ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-07-30 18:52:34 +0800
+Processing by PostsController#index as HTML
+  Rendering posts/index.html.erb within layouts/application
+  Rendered posts/index.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 87ms (Views: 84.1ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-07-30 19:01:34 +0800
+Processing by PostsController#index as HTML
+  Rendering posts/index.html.erb within layouts/application
+  Rendered posts/index.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 77ms (Views: 75.7ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-07-30 19:01:52 +0800
+Processing by PostsController#index as HTML
+  Rendering posts/index.html.erb within layouts/application
+  Rendered posts/index.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 64ms (Views: 61.9ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-07-30 19:05:57 +0800
+Processing by PostsController#index as HTML
+  Rendering posts/index.html.erb within layouts/application
+  Rendered posts/index.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 69ms (Views: 68.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-07-30 19:07:13 +0800
+Processing by PostsController#index as HTML
+  Rendering posts/index.html.erb within layouts/application
+  Rendered posts/index.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 85ms (Views: 83.9ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-07-30 19:08:04 +0800
+Processing by PostsController#index as HTML
+  Rendering posts/index.html.erb within layouts/application
+  Rendered posts/index.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 85ms (Views: 83.5ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-07-30 19:08:31 +0800
+Processing by PostsController#index as HTML
+  Rendering posts/index.html.erb within layouts/application
+  Rendered posts/index.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 64ms (Views: 62.4ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-07-31 23:32:12 +0800
+  [1m[35m (0.1ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+Processing by PostsController#index as HTML
+Completed 401 Unauthorized in 20ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/users/sign_in" for 127.0.0.1 at 2018-07-31 23:32:12 +0800
+Processing by Devise::SessionsController#new as HTML
+  Rendering devise/sessions/new.html.erb within layouts/application
+  Rendered devise/shared/_links.html.erb (1.4ms)
+  Rendered devise/sessions/new.html.erb within layouts/application (22.7ms)
+Completed 200 OK in 701ms (Views: 669.0ms | ActiveRecord: 1.1ms)
+
+
+Started GET "/users/sign_up" for 127.0.0.1 at 2018-07-31 23:32:46 +0800
+Processing by Devise::RegistrationsController#new as HTML
+  Rendering devise/registrations/new.html.erb within layouts/application
+  Rendered devise/shared/_links.html.erb (1.0ms)
+  Rendered devise/registrations/new.html.erb within layouts/application (4.2ms)
+Completed 200 OK in 47ms (Views: 46.0ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/users" for 127.0.0.1 at 2018-07-31 23:32:52 +0800
+Processing by Devise::RegistrationsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"lEAr3k1K25/eXDvWpyha8X4ybJ2V1s1BYJs70StfTkWSs+rqymwaaFQJQy01KQ82hJ6PJVyY8EVlPjCMDAqHWQ==", "user"=>{"email"=>"root@example.com", "password"=>"[FILTERED]", "password_confirmation"=>"[FILTERED]"}, "commit"=>"Sign up"}
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  [1m[36mUser Exists (0.3ms)[0m  [1m[34mSELECT  1 AS one FROM "users" WHERE "users"."email" = ? LIMIT ?[0m  [["email", "root@example.com"], ["LIMIT", 1]]
+  [1m[35mSQL (5.7ms)[0m  [1m[32mINSERT INTO "users" ("email", "encrypted_password", "created_at", "updated_at") VALUES (?, ?, ?, ?)[0m  [["email", "root@example.com"], ["encrypted_password", "$2a$11$LaMJY46h1b/hrIgZeAX/0.RzL.zfy5xX65Hz.h/uG5wsD8CJFGxje"], ["created_at", "2018-07-31 15:32:52.503864"], ["updated_at", "2018-07-31 15:32:52.503864"]]
+  [1m[35m (5.8ms)[0m  [1m[36mcommit transaction[0m
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  [1m[35mSQL (0.9ms)[0m  [1m[33mUPDATE "users" SET "sign_in_count" = ?, "current_sign_in_at" = ?, "last_sign_in_at" = ?, "current_sign_in_ip" = ?, "last_sign_in_ip" = ?, "updated_at" = ? WHERE "users"."id" = ?[0m  [["sign_in_count", 1], ["current_sign_in_at", "2018-07-31 15:32:52.528256"], ["last_sign_in_at", "2018-07-31 15:32:52.528256"], ["current_sign_in_ip", "127.0.0.1"], ["last_sign_in_ip", "127.0.0.1"], ["updated_at", "2018-07-31 15:32:52.529049"], ["id", 1]]
+  [1m[35m (6.5ms)[0m  [1m[36mcommit transaction[0m
+Redirected to http://localhost:3000/
+Completed 302 Found in 198ms (ActiveRecord: 19.5ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-07-31 23:32:52 +0800
+Processing by PostsController#index as HTML
+  [1m[36mUser Load (0.3ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = ? ORDER BY "users"."id" ASC LIMIT ?[0m  [["id", 1], ["LIMIT", 1]]
+  Rendering posts/index.html.erb within layouts/application
+  Rendered posts/index.html.erb within layouts/application (0.5ms)
+Completed 500 Internal Server Error in 389ms (ActiveRecord: 0.3ms)
+
+
+  
+ActionView::Template::Error (undefined method `tweets_user_path' for #<#<Class:0x007f342c162648>:0x007f342c160a28>):
+    23:     <div class="collapse navbar-collapse" id="navbarNav">
+    24:       <ul class="nav navbar-nav  ml-auto float-left">
+    25:             <% if current_user %>
+    26:                 <%= link_to tweets_user_path(current_user) do %>
+    27:                 <% if current_user.avatar? %>
+    28:             <%=  image_tag current_user.avatar,  width: '50px' ,class: "img-thumbnail img-fluid mb-3 " %>
+    29:                 <% else %>
+  
+app/views/layouts/application.html.erb:26:in `_app_views_layouts_application_html_erb___1776359878266791078_69931027371560'
+Started GET "/" for 127.0.0.1 at 2018-07-31 23:33:16 +0800
+Processing by PostsController#index as HTML
+  [1m[36mUser Load (0.3ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = ? ORDER BY "users"."id" ASC LIMIT ?[0m  [["id", 1], ["LIMIT", 1]]
+  Rendering posts/index.html.erb within layouts/application
+  Rendered posts/index.html.erb within layouts/application (0.5ms)
+Completed 500 Internal Server Error in 405ms (ActiveRecord: 0.3ms)
+
+
+  
+ActionView::Template::Error (undefined method `post_path' for #<#<Class:0x007f342c162648>:0x007f342c707a58>
+Did you mean?  font_path
+               root_path):
+    23:     <div class="collapse navbar-collapse" id="navbarNav">
+    24:       <ul class="nav navbar-nav  ml-auto float-left">
+    25:             <% if current_user %>
+    26:                 <%= link_to post_path(current_user) do %>
+    27:                 <% if current_user.avatar? %>
+    28:             <%=  image_tag current_user.avatar,  width: '50px' ,class: "img-thumbnail img-fluid mb-3 " %>
+    29:                 <% else %>
+  
+app/views/layouts/application.html.erb:26:in `_app_views_layouts_application_html_erb___1776359878266791078_69931030195480'
+Started GET "/" for 127.0.0.1 at 2018-07-31 23:33:20 +0800
+Processing by PostsController#index as HTML
+  [1m[36mUser Load (0.7ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = ? ORDER BY "users"."id" ASC LIMIT ?[0m  [["id", 1], ["LIMIT", 1]]
+  Rendering posts/index.html.erb within layouts/application
+  Rendered posts/index.html.erb within layouts/application (0.5ms)
+Completed 500 Internal Server Error in 457ms (ActiveRecord: 0.7ms)
+
+
+  
+ActionView::Template::Error (undefined method `posts_path' for #<#<Class:0x007f342c162648>:0x007f343c01e858>
+Did you mean?  password_path):
+    23:     <div class="collapse navbar-collapse" id="navbarNav">
+    24:       <ul class="nav navbar-nav  ml-auto float-left">
+    25:             <% if current_user %>
+    26:                 <%= link_to posts_path(current_user) do %>
+    27:                 <% if current_user.avatar? %>
+    28:             <%=  image_tag current_user.avatar,  width: '50px' ,class: "img-thumbnail img-fluid mb-3 " %>
+    29:                 <% else %>
+  
+app/views/layouts/application.html.erb:26:in `_app_views_layouts_application_html_erb___1776359878266791078_69931160904700'
+Started GET "/" for 127.0.0.1 at 2018-07-31 23:33:27 +0800
+Processing by PostsController#index as HTML
+  [1m[36mUser Load (0.3ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = ? ORDER BY "users"."id" ASC LIMIT ?[0m  [["id", 1], ["LIMIT", 1]]
+  Rendering posts/index.html.erb within layouts/application
+  Rendered posts/index.html.erb within layouts/application (0.7ms)
+Completed 500 Internal Server Error in 537ms (ActiveRecord: 0.3ms)
+
+
+  
+ActionView::Template::Error (undefined method `tweets_user_path' for #<#<Class:0x007f342c162648>:0x007f342c47ed68>):
+    31:                 <% end %>
+    32:             <% end %>
+    33:       						<% if current_user %>
+    34: 					 <li><%= link_to'Profile', tweets_user_path(current_user) %></li> 
+    35: 						<li class="navbar-text"> &nbsp; Hi, <%= current_user.email  %></li>
+    36: 						<li class="nav-item"><%= link_to('登出', destroy_user_session_path, method: :delete,class:"nav-link") %></li>      
+    37:               <% if current_user.admin? %>
+  
+app/views/layouts/application.html.erb:34:in `_app_views_layouts_application_html_erb___1776359878266791078_69931028923900'
+Started GET "/" for 127.0.0.1 at 2018-07-31 23:33:42 +0800
+Processing by PostsController#index as HTML
+  [1m[36mUser Load (0.3ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = ? ORDER BY "users"."id" ASC LIMIT ?[0m  [["id", 1], ["LIMIT", 1]]
+  Rendering posts/index.html.erb within layouts/application
+  Rendered posts/index.html.erb within layouts/application (0.6ms)
+Completed 500 Internal Server Error in 91ms (ActiveRecord: 0.3ms)
+
+
+  
+ActionView::Template::Error (undefined method `admin?' for #<User:0x007f34343e4850>):
+    34: 					 <li><%= link_to'Profile', root_path(current_user) %></li> 
+    35: 						<li class="navbar-text"> &nbsp; Hi, <%= current_user.email  %></li>
+    36: 						<li class="nav-item"><%= link_to('登出', destroy_user_session_path, method: :delete,class:"nav-link") %></li>      
+    37:               <% if current_user.admin? %>
+    38:                 <li class="nav-item"><%= link_to '<i class="fa fa-user-plus" aria-hidden="true"></i> Admin後台'.html_safe, admin_tweets_path,class:"nav-link" %></li>
+    39:                <% end %>
+    40: 						  <% else %>
+  
+app/views/layouts/application.html.erb:37:in `_app_views_layouts_application_html_erb___1776359878266791078_69931095794140'
