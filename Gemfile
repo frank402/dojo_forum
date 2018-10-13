@@ -68,4 +68,5 @@ gem 'ffaker'
 gem 'ransack'
 # API
 gem 'rest-client'
-#Manage your Ruby On Rails models, relations, and migrations from a simple UI.
+#Simple_form
+gem 'simple_form'

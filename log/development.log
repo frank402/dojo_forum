@@ -2276,3 +2276,138 @@ Processing by Devise::SessionsController#new as HTML
 Completed 200 OK in 75ms (Views: 72.7ms | ActiveRecord: 0.0ms)
 
 
+Started GET "/" for 127.0.0.1 at 2018-10-14 01:50:49 +0800
+Processing by PostsController#index as HTML
+Completed 401 Unauthorized in 1ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/users/sign_in" for 127.0.0.1 at 2018-10-14 01:50:49 +0800
+Processing by Devise::SessionsController#new as HTML
+  Rendering devise/sessions/new.html.erb within layouts/application
+  Rendered devise/sessions/new.html.erb within layouts/application (346.3ms)
+Completed 500 Internal Server Error in 362ms (ActiveRecord: 0.0ms)
+
+
+  
+ActionView::Template::Error (undefined method `simple_form_for' for #<#<Class:0x00007fbef0097890>:0x00007fbeee40e6b0>
+Did you mean?  simple_format):
+     6:           登入
+     7:         </div>
+     8:         <div class="card-body">
+     9:           <%= simple_form_for(resource, as: resource_name, url: session_path(resource_name)) do |f| %>
+    10:             <div class="form-inputs">
+    11:               <%= f.input :email, required: false, autofocus: true %>
+    12:               <%= f.input :password, required: false %>
+  
+app/views/devise/sessions/new.html.erb:9:in `_app_views_devise_sessions_new_html_erb__3635556068229811566_70229008869700'
+Started GET "/users/sign_in" for 127.0.0.1 at 2018-10-14 01:51:19 +0800
+Processing by Devise::SessionsController#new as HTML
+  Rendering devise/sessions/new.html.erb within layouts/application
+  Rendered devise/sessions/new.html.erb within layouts/application (346.0ms)
+Completed 500 Internal Server Error in 364ms (ActiveRecord: 0.0ms)
+
+
+  
+ActionView::Template::Error (undefined method `input' for #<ActionView::Helpers::FormBuilder:0x00007fbef3cde308>):
+     8:         <div class="card-body">
+     9:           <%= form_for(resource, as: resource_name, url: session_path(resource_name)) do |f| %>
+    10:             <div class="form-inputs">
+    11:               <%= f.input :email, required: false, autofocus: true %>
+    12:               <%= f.input :password, required: false %>
+    13:               <%= f.input :remember_me, as: :boolean if devise_mapping.rememberable? %>
+    14:             </div>
+  
+app/views/devise/sessions/new.html.erb:11:in `block in _app_views_devise_sessions_new_html_erb__3635556068229811566_70229055270260'
+app/views/devise/sessions/new.html.erb:9:in `_app_views_devise_sessions_new_html_erb__3635556068229811566_70229055270260'
+Started GET "/users/sign_in" for 127.0.0.1 at 2018-10-14 01:53:21 +0800
+Processing by Devise::SessionsController#new as HTML
+  Rendering devise/sessions/new.html.erb within layouts/application
+  Rendered devise/shared/_links.html.erb (0.9ms)
+  Rendered devise/sessions/new.html.erb within layouts/application (5.5ms)
+Completed 200 OK in 60ms (Views: 59.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/users/sign_in" for 127.0.0.1 at 2018-10-14 01:55:35 +0800
+Processing by Devise::SessionsController#new as HTML
+  Rendering devise/sessions/new.html.erb within layouts/application
+  Rendered devise/sessions/new.html.erb within layouts/application (324.5ms)
+Completed 500 Internal Server Error in 360ms (ActiveRecord: 0.0ms)
+
+
+  
+ActionView::Template::Error (undefined method `input' for #<ActionView::Helpers::FormBuilder:0x00007fbef3ee4b98>):
+     8:         <div class="card-body">
+     9:           <%= form_for(resource, as: resource_name, url: session_path(resource_name)) do |f| %>
+    10:             <div class="form-inputs">
+    11:               <%= f.input :email, required: false, autofocus: true %>
+    12:               <%= f.input :password, required: false %>
+    13:               <%= f.input :remember_me, as: :boolean if devise_mapping.rememberable? %>
+    14:             </div>
+  
+app/views/devise/sessions/new.html.erb:11:in `block in _app_views_devise_sessions_new_html_erb__3635556068229811566_70229051935440'
+app/views/devise/sessions/new.html.erb:9:in `_app_views_devise_sessions_new_html_erb__3635556068229811566_70229051935440'
+Started GET "/users/sign_in" for 127.0.0.1 at 2018-10-14 01:57:21 +0800
+Processing by Devise::SessionsController#new as HTML
+  Rendering devise/sessions/new.html.erb within layouts/application
+  Rendered devise/sessions/new.html.erb within layouts/application (311.7ms)
+Completed 500 Internal Server Error in 328ms (ActiveRecord: 0.0ms)
+
+
+  
+ActionView::Template::Error (undefined method `input' for #<ActionView::Helpers::FormBuilder:0x00007fbef32e2188>):
+     9:           <%= form_for(resource, as: resource_name, url: session_path(resource_name)) do |f| %>
+    10:             <div class="form-inputs">
+    11:               <%#= f.input :email, required: false, autofocus: true %>
+    12:               <%= f.input :password, required: false %>
+    13:               <%= f.input :remember_me, as: :boolean if devise_mapping.rememberable? %>
+    14:             </div>
+    15: 
+  
+app/views/devise/sessions/new.html.erb:12:in `block in _app_views_devise_sessions_new_html_erb__3635556068229811566_70229050248580'
+app/views/devise/sessions/new.html.erb:9:in `_app_views_devise_sessions_new_html_erb__3635556068229811566_70229050248580'
+Started GET "/users/sign_in" for 127.0.0.1 at 2018-10-14 01:59:58 +0800
+Processing by Devise::SessionsController#new as HTML
+  Rendering devise/sessions/new.html.erb within layouts/application
+  Rendered devise/sessions/new.html.erb within layouts/application (4.7ms)
+Completed 500 Internal Server Error in 21ms (ActiveRecord: 0.0ms)
+
+
+  
+ActionView::Template::Error (wrong number of arguments (given 3, expected 0..2)):
+    14:             </div>
+    15: 
+    16:             <div class="form-actions">
+    17:               <%= f.button :submit, "Log in" ,class:'btn btn-primary form-control'%>
+    18:             </div>
+    19:           <% end %>
+    20:           <%= render "devise/shared/links" %>
+  
+app/views/devise/sessions/new.html.erb:17:in `block in _app_views_devise_sessions_new_html_erb__3635556068229811566_70229035118480'
+app/views/devise/sessions/new.html.erb:9:in `_app_views_devise_sessions_new_html_erb__3635556068229811566_70229035118480'
+Started GET "/users/sign_in" for 127.0.0.1 at 2018-10-14 02:00:20 +0800
+Processing by Devise::SessionsController#new as HTML
+  Rendering devise/sessions/new.html.erb within layouts/application
+  Rendered devise/sessions/new.html.erb within layouts/application (3.5ms)
+Completed 500 Internal Server Error in 16ms (ActiveRecord: 0.0ms)
+
+
+  
+ActionView::Template::Error (wrong number of arguments (given 3, expected 0..2)):
+    14:             </div>
+    15: 
+    16:             <div class="form-actions">
+    17:               <%= f.submit :submit, "Log in" ,class:'btn btn-primary form-control'%>
+    18:             </div>
+    19:           <% end %>
+    20:           <%= render "devise/shared/links" %>
+  
+app/views/devise/sessions/new.html.erb:17:in `block in _app_views_devise_sessions_new_html_erb__3635556068229811566_70228998173520'
+app/views/devise/sessions/new.html.erb:9:in `_app_views_devise_sessions_new_html_erb__3635556068229811566_70228998173520'
+Started GET "/users/sign_in" for 127.0.0.1 at 2018-10-14 02:00:46 +0800
+Processing by Devise::SessionsController#new as HTML
+  Rendering devise/sessions/new.html.erb within layouts/application
+  Rendered devise/shared/_links.html.erb (0.9ms)
+  Rendered devise/sessions/new.html.erb within layouts/application (4.7ms)
+Completed 200 OK in 54ms (Views: 52.9ms | ActiveRecord: 0.0ms)
+
+
