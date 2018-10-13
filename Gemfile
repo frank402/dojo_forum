@@ -69,4 +69,3 @@ gem 'ransack'
 # API
 gem 'rest-client'
 #Manage your Ruby On Rails models, relations, and migrations from a simple UI.
-gem "localtower"
